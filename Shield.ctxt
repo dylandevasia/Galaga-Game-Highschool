@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Shield
+comment0.text=\r\n\ Creates\ a\ shield\ powerup\ that\ protects\ the\ player\r\n\r\n\ @Dyaln\ D\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p1\ position
+comment1.target=Shield(Player,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Shield\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

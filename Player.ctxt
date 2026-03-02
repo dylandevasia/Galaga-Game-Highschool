@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=skin
+comment1.target=Player(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player\r\n
+comment10.params=
+comment10.target=void\ Die()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ enableDoubleShot()
+comment4.params=
+comment4.target=void\ enableShield()
+comment5.params=
+comment5.target=void\ enableExtraLife()
+comment6.params=
+comment6.target=void\ powerUpText()
+comment7.params=
+comment7.target=void\ checkPowerUps()
+comment8.params=
+comment8.target=int\ lives()
+comment9.params=
+comment9.target=boolean\ useShield()
+numComments=11

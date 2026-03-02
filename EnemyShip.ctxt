@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=EnemyShip
+comment0.text=\r\n\ An\ EnemyShip\ Object\ that\ creates\ the\ movement,\ shooting\ and\ formation\ of\ the\ enemies.\r\n\r\n\ @Dylan\ D\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y\ finalX\ finalY
+comment1.target=EnemyShip(int,\ int,\ int,\ int)
+comment10.params=
+comment10.target=void\ idleSway()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=a
+comment4.target=void\ ShootingPotential(int)
+comment5.params=
+comment5.target=void\ Die()
+comment6.params=
+comment6.target=boolean\ idleSwayCheck()
+comment7.params=
+comment7.target=boolean\ checkPosition()
+comment8.params=
+comment8.target=boolean\ checkAllPosition()
+comment9.params=
+comment9.target=void\ readySignal()
+numComments=11

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bullet
+comment1.params=s\ x\ y
+comment1.target=Bullet(Ship,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=Ship\ shotBy()
+numComments=4

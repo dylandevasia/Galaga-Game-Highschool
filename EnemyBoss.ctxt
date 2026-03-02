@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=EnemyBoss
+comment0.text=\r\n\ An\ EnemyBoss\ object\ that\ extends\ EnemyShip.\ EnemyBoss\ is\ an\ EnemyShip\ with\ more\ health,\ more\ movement,\ and\ more\ shot\ potential.\r\n\r\n\ @Andrew\ W\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y\ finalX\ finalY\ level
+comment1.target=EnemyBoss(int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ EnemyBoss\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ idleSway()
+comment4.params=
+comment4.target=void\ die()
+comment5.params=
+comment5.target=void\ checkShot()
+comment6.params=a
+comment6.target=void\ ShootingPotential(int)
+numComments=7
